@@ -63,7 +63,7 @@ class Calculator:
         #     return "Error - division by zero!!!"
 
 
-if __name__ == "__main__": # pragma: no cover
+if __name__ == "__main__":  # pragma: no cover
     # Example usage of calculator
 
     calc_1 = Calculator(1.0, 2.0)
